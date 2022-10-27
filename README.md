@@ -4,19 +4,19 @@
 - Html
 - Css
 ### Authors
-:guardsman: Akabueze Victor 
-- Github [@jheart-vic](https//github.com/jheart-vic/)
+:guardsman: Nwafor Ifeanyi 
+- Github [@ifeanyi_ns](https://github.com/ifeanyins)
 
 ### :handshake: Contributing 
 > Contributions, issues, and feature requests are welcome!
 
-> Feel free to check the [issues page](https://github.com/jheart-vic/My-Portfolio-Website/issues).
+> Feel free to check the [issues page](https://github.com/ifeanyins/MyPortfolio/issues).
 
 ### Show your support
 > Give a :star: if you like this project!
 
 ### Live Demo 
-> [Live Demo link](https://jheart-vic.github.io/My-Portfolio-Website/)
+> [Live Demo link](https://ifeanyins.github.io/MyPortfolio/)
 
 ### Acknowledgments
 - [John Toma](https://github.com/Kamba56/)

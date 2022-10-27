@@ -6,7 +6,7 @@ const popUps = [
     description:
   "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
     technologies: ['css', 'html', 'bootstrap', 'Ruby'],
-    live_link: 'https://jheart-vic.github.io/My-Portfolio-Website/',
+    live_link: 'https://ifeanyins.github.io/MyPortfolio/',
     source_link: 'https://github.com/jheart-vic/My-Portfolio-Website',
   },
 
@@ -16,8 +16,8 @@ const popUps = [
     image: './images/SnapshootPortfolio.png',
     description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
     technologies: ['html', 'bootstrap', 'Ruby'],
-    live_link: 'https://jheart-vic.github.io/My-Portfolio-Website/',
-    source_link: 'https://github.com/jheart-vic/My-Portfolio-Website',
+    live_link: 'https://ifeanyins.github.io/MyPortfolio/',
+    source_link: 'https://github.com/ifeanyins/MyPortfolio',
   },
   {
     id: 'project-button3',
@@ -25,8 +25,8 @@ const popUps = [
     image: './images/SnapshootPortfolio.png',
     description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
     technologies: ['html', 'bootstrap', 'Ruby'],
-    live_link: 'https://jheart-vic.github.io/My-Portfolio-Website/',
-    source_link: 'https://github.com/jheart-vic/My-Portfolio-Website',
+    live_link: 'https://ifeanyins.github.io/MyPortfolio/',
+    source_link: 'https://github.com/ifeanyins/MyPortfolio',
   },
   {
     id: 'project-button3',
@@ -35,8 +35,8 @@ const popUps = [
     description:
 "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
     technologies: ['html', 'bootstrap', 'Ruby'],
-    live_link: 'https://jheart-vic.github.io/My-Portfolio-Website/',
-    source_link: 'https://github.com/jheart-vic/My-Portfolio-Website',
+    live_link: 'https://ifeanyins.github.io/MyPortfolio/',
+    source_link: 'https://github.com/ifeanyins/MyPortfolio',
   },
   {
     id: 'project-button4',
@@ -45,8 +45,8 @@ const popUps = [
     description:
   "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
     technologies: ['html', 'bootstrap', 'Ruby'],
-    live_link: 'https://jheart-vic.github.io/My-Portfolio-Website/',
-    source_link: 'https://github.com/jheart-vic/My-Portfolio-Website',
+    live_link: 'https://ifeanyins.github.io/MyPortfolio/',
+    source_link: 'https://github.com/ifeanyins/MyPortfolio',
   },
   {
     id: 'project-button5',
@@ -55,8 +55,8 @@ const popUps = [
     description:
   "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
     technologies: ['html', 'bootstrap', 'Ruby'],
-    live_link: 'https://jheart-vic.github.io/My-Portfolio-Website/',
-    source_link: 'https://github.com/jheart-vic/My-Portfolio-Website',
+    live_link: 'https://ifeanyins.github.io/MyPortfolio/',
+    source_link: 'https://github.com/ifeanyins/MyPortfolio',
   },
   {
     id: 'project-button6 project-button6',
@@ -65,8 +65,8 @@ const popUps = [
     description:
   "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown",
     technologies: ['html', 'bootstrap', 'Ruby'],
-    live_link: 'https://jheart-vic.github.io/My-Portfolio-Website/',
-    source_link: 'https://github.com/jheart-vic/My-Portfolio-Website',
+    live_link: 'https://ifeanyins.github.io/MyPortfolio/',
+    source_link: 'https://github.com/ifeanyins/MyPortfolio',
   },
 ];
 
